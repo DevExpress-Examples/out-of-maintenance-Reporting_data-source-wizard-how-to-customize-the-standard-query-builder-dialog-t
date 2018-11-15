@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FrmDesigner.cs](./CS/ReplaceQueryBuilderSample/FrmDesigner.cs) (VB: [FrmDesigner.vb](./VB/ReplaceQueryBuilderSample/FrmDesigner.vb))
+* [FrmQueryBuilder.cs](./CS/ReplaceQueryBuilderSample/FrmQueryBuilder.cs) (VB: [FrmQueryBuilder.vb](./VB/ReplaceQueryBuilderSample/FrmQueryBuilder.vb))
+* [MyConfigureQueryPage.cs](./CS/ReplaceQueryBuilderSample/MyConfigureQueryPage.cs) (VB: [MyConfigureQueryPage.vb](./VB/ReplaceQueryBuilderSample/MyConfigureQueryPage.vb))
+* [MyConfigureQueryPageEx.cs](./CS/ReplaceQueryBuilderSample/MyConfigureQueryPageEx.cs) (VB: [MyConfigureQueryPageEx.vb](./VB/ReplaceQueryBuilderSample/MyConfigureQueryPageEx.vb))
+* [MyConfigureQueryPageView.cs](./CS/ReplaceQueryBuilderSample/MyConfigureQueryPageView.cs) (VB: [MyConfigureQueryPageView.vb](./VB/ReplaceQueryBuilderSample/MyConfigureQueryPageView.vb))
+* **[MyWizardCustomizationService.cs](./CS/ReplaceQueryBuilderSample/MyWizardCustomizationService.cs) (VB: [MyWizardCustomizationService.vb](./VB/ReplaceQueryBuilderSample/MyWizardCustomizationService.vb))**
+<!-- default file list end -->
 # Data Source Wizard – How to customize the standard Query Builder dialog
 
 
